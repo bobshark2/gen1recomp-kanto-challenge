@@ -1,0 +1,4 @@
+*.zip
+browsed_files/
+.DS_Store
+__MACOSX/
